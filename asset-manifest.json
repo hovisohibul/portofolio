@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portofolio/static/css/main.15c69157.css",
-    "main.js": "/Portofolio/static/js/main.943ec9d0.js",
-    "static/media/book.png": "/Portofolio/static/media/book.fcbc67f16a71facfed4b.png",
-    "static/media/suit.png": "/Portofolio/static/media/suit.449244aa39ba2a8bfd8d.png",
-    "static/media/react.png": "/Portofolio/static/media/react.283f9f863581bb226e65.png",
-    "static/media/html5.png": "/Portofolio/static/media/html5.1d7b133e22ffe4829da6.png",
-    "static/media/git.png": "/Portofolio/static/media/git.7e19ced30f7817541e65.png",
-    "static/media/css3.png": "/Portofolio/static/media/css3.9f33c557b92e4e2e1cc8.png",
-    "static/media/javascript.png": "/Portofolio/static/media/javascript.cf7522f436d6510da302.png",
-    "static/media/calculator.png": "/Portofolio/static/media/calculator.b4dc27d09a98051759a3.png",
-    "static/media/pair-game.png": "/Portofolio/static/media/pair-game.880d8cee987fdd686dc8.png",
-    "static/media/node.png": "/Portofolio/static/media/node.d99c5decced4a0d78a9b.png",
-    "static/media/bootstrap.png": "/Portofolio/static/media/bootstrap.772c1187fec10647bbc9.png",
-    "index.html": "/Portofolio/index.html",
-    "main.15c69157.css.map": "/Portofolio/static/css/main.15c69157.css.map",
-    "main.943ec9d0.js.map": "/Portofolio/static/js/main.943ec9d0.js.map"
+    "main.css": "/portofolio/static/css/main.15c69157.css",
+    "main.js": "/portofolio/static/js/main.7cbe2b76.js",
+    "static/media/book.png": "/portofolio/static/media/book.fcbc67f16a71facfed4b.png",
+    "static/media/suit.png": "/portofolio/static/media/suit.449244aa39ba2a8bfd8d.png",
+    "static/media/react.png": "/portofolio/static/media/react.283f9f863581bb226e65.png",
+    "static/media/html5.png": "/portofolio/static/media/html5.1d7b133e22ffe4829da6.png",
+    "static/media/git.png": "/portofolio/static/media/git.7e19ced30f7817541e65.png",
+    "static/media/css3.png": "/portofolio/static/media/css3.9f33c557b92e4e2e1cc8.png",
+    "static/media/javascript.png": "/portofolio/static/media/javascript.cf7522f436d6510da302.png",
+    "static/media/calculator.png": "/portofolio/static/media/calculator.b4dc27d09a98051759a3.png",
+    "static/media/pair-game.png": "/portofolio/static/media/pair-game.880d8cee987fdd686dc8.png",
+    "static/media/node.png": "/portofolio/static/media/node.d99c5decced4a0d78a9b.png",
+    "static/media/bootstrap.png": "/portofolio/static/media/bootstrap.772c1187fec10647bbc9.png",
+    "index.html": "/portofolio/index.html",
+    "main.15c69157.css.map": "/portofolio/static/css/main.15c69157.css.map",
+    "main.7cbe2b76.js.map": "/portofolio/static/js/main.7cbe2b76.js.map"
   },
   "entrypoints": [
     "static/css/main.15c69157.css",
-    "static/js/main.943ec9d0.js"
+    "static/js/main.7cbe2b76.js"
   ]
 }
